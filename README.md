@@ -1,4 +1,4 @@
-# Task React E-Shop
+# Task React 
 
 A simple e-commerce demo built with React, Redux Toolkit, RTK Query, Material UI, and Vite.
 
@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173] in your browser.
+Open http://localhost:5173 in your browser.
 
 ## Usage
 - **Login:** Use demo credentials  
@@ -41,3 +41,4 @@ Open [http://localhost:5173] in your browser.
 
 ## API
 Uses https://dummyjson.com/ for products and authentication.
+
